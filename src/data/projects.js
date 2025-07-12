@@ -1,47 +1,51 @@
-// TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'F-Cube',
+    subtitle: 'Microsoft Code.Fun.Do 2017-18',
+    link: '',
+    image: '/images/projects/1.png',
+    date: '2018-01-01',
+    desc: 'A fun facial-expression-matching game using Microsoft Cognitive Services and UWP. Players mimic shown emotions to score.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Light Automation System',
+    subtitle: 'Makeathon 6.0 at NITW',
+    link: '',
+    image: '/images/projects/2.png',
+    date: '2016-09-01',
+    desc: 'Automated office lighting based on presence detection and swipe data using Arduino, light sensors, and Power MOSFETs.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'TravelMate – A Tourism App',
+    subtitle: 'Microsoft Code.Fun.Do 2016-17',
+    link: '',
+    image: '/images/projects/3.png',
+    date: '2016-09-01',
+    desc: 'A real-time cloud-based tourism feedback app built using Microsoft Azure and UWP, featuring user-generated reviews.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+    title: 'Smart Home Surveillance System',
+    subtitle: 'Final Year EEE Capstone Project',
+    link: '',
+    image: '/images/projects/4.png',
+    date: '2018-04-01',
+    desc: 'Monitors power usage and detects faults using Hall Effect sensors, Arduino, and Wi-Fi modules. Supports remote control.',
+  },
+  {
+    title: 'Smart Fitness Tracker',
+    subtitle: 'Alpha Generation',
+    link: '',
+    image: '/images/projects/5.jpeg',
+    date: '2018-01-01',
+    desc: 'Low-cost wearable fitness tracker for counting exercise reps using gyroscope sensors and Arduino. Built for market deployment.',
+  },
+  {
+    title: 'Stair Climbing Robot',
+    subtitle: 'World Robotic Olympiad 2014',
+    link: '',
+    image: '/images/projects/6.png',
+    date: '2014-05-01',
+    desc: 'A Lego Mindstorms NXT robot built to climb stairs and detect obstructions. Developed for the University of Wollongong event.',
   },
 ];
 
